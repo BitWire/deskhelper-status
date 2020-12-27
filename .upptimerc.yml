@@ -1,29 +1,27 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your Github repository name
+owner: BitWire # Your GitHub username
+repo: deskhelper-status # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Deskhelper Cloud
+    url: https://server.deskhelper.de
+  - name: Wieichnichtheisse.de
+    url: https://wieichnichtheisse.de
+  - name: Deskhelper Blog
+    url: https://blog.deskhelper.de
+  - name: Deskhelper Static Page
+    url: https://deskhelper.de
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  cname: status.deskhelper.de
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://deskhelper.de/favicon.png
+  name: Deskhelper
+  introTitle: "This is the Statuspage for my Deskhelper Pages, it is powered by **Upptime**."
+  introMessage: "This is the Statuspage for my Deskhelper Pages, it is powered by **Upptime**, the open-source uptime monitor and status page, powered entirely by GitHub."
   navbar:
     - title: Status
       href: /
