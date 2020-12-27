@@ -16,7 +16,8 @@ sites:
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /deskhelper-status
+  # baseUrl: /deskhelper-status
+  cname: status.deskhelper.de
   logoUrl: https://deskhelper.de/favicon.png
   name: Deskhelper
   introTitle: "This is the Statuspage for my Deskhelper Pages, it is powered by **Upptime**."
