@@ -1,4 +1,4 @@
-# [📈 Live Status](https://status.deskhelper.de): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://gh.deskhelper.de): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [BitWire](deskhelper.de), powered by [Upptime](https://github.com/upptime/upptime).
 
