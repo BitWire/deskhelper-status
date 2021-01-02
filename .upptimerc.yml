@@ -20,7 +20,7 @@ status-website:
   cname: gh.deskhelper.de
   logoUrl: https://deskhelper.de/favicon.png
   name: Deskhelper
-  introTitle: "This is the Statuspage for my Deskhelper Pages, it is powered by **Upptime**."
+  introTitle: "Deskhelper Statuspage"
   introMessage: "This is the Statuspage for my Deskhelper Pages, it is powered by **Upptime**, the open-source uptime monitor and status page, powered entirely by GitHub."
   navbar:
     - title: Status
