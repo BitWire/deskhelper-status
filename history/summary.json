@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 856,
-    "timeDay": 1641,
-    "timeWeek": 1012,
-    "timeMonth": 856,
-    "timeYear": 856,
+    "time": 874,
+    "timeDay": 1394,
+    "timeWeek": 1036,
+    "timeMonth": 874,
+    "timeYear": 874,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/wieichnichtheisse.de",
     "slug": "wieichnichtheisse-de",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "95.34%",
     "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
-    "time": 1596,
-    "timeDay": 4777,
-    "timeWeek": 2570,
-    "timeMonth": 1596,
-    "timeYear": 1596,
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 1708,
+    "timeDay": 6126,
+    "timeWeek": 2984,
+    "timeMonth": 1708,
+    "timeYear": 1708,
     "dailyMinutesDown": {
       "2021-01-19": 67
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "99.34%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.80%",
-    "time": 622,
-    "timeDay": 666,
-    "timeWeek": 694,
-    "timeMonth": 622,
-    "timeYear": 622,
+    "time": 748,
+    "timeDay": 2019,
+    "timeWeek": 1119,
+    "timeMonth": 748,
+    "timeYear": 748,
     "dailyMinutesDown": {
       "2021-01-19": 67
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "99.34%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.80%",
-    "time": 934,
-    "timeDay": 2187,
-    "timeWeek": 1289,
-    "timeMonth": 934,
-    "timeYear": 934,
+    "time": 920,
+    "timeDay": 2153,
+    "timeWeek": 1236,
+    "timeMonth": 920,
+    "timeYear": 920,
     "dailyMinutesDown": {
       "2021-01-19": 67
     }
