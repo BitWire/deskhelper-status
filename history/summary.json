@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.85%",
-    "time": 910,
-    "timeDay": 1091,
-    "timeWeek": 1021,
-    "timeMonth": 955,
-    "timeYear": 910,
+    "time": 907,
+    "timeDay": 785,
+    "timeWeek": 975,
+    "timeMonth": 956,
+    "timeYear": 907,
     "dailyMinutesDown": {
       "2021-01-22": 80
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.87%",
-    "time": 1745,
-    "timeDay": 1246,
-    "timeWeek": 2384,
-    "timeMonth": 1913,
-    "timeYear": 1745,
+    "time": 1735,
+    "timeDay": 1298,
+    "timeWeek": 1336,
+    "timeMonth": 1937,
+    "timeYear": 1735,
     "dailyMinutesDown": {
       "2021-01-19": 67
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.87%",
-    "time": 752,
-    "timeDay": 838,
-    "timeWeek": 770,
-    "timeMonth": 804,
-    "timeYear": 752,
+    "time": 748,
+    "timeDay": 571,
+    "timeWeek": 670,
+    "timeMonth": 807,
+    "timeYear": 748,
     "dailyMinutesDown": {
       "2021-01-19": 67
     }
@@ -65,16 +65,16 @@
     "icon": "https://favicons.githubusercontent.com/deskhelper.de",
     "slug": "deskhelper-static-page",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "99.87%",
-    "time": 841,
-    "timeDay": 591,
-    "timeWeek": 648,
-    "timeMonth": 811,
-    "timeYear": 841,
+    "uptimeYear": "99.88%",
+    "time": 843,
+    "timeDay": 910,
+    "timeWeek": 676,
+    "timeMonth": 826,
+    "timeYear": 843,
     "dailyMinutesDown": {
       "2021-01-19": 67
     }
