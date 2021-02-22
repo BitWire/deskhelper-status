@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/server.deskhelper.de",
     "slug": "deskhelper-cloud",
     "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "93.12%",
+    "uptime": "99.78%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.02%",
     "uptimeMonth": "99.59%",
-    "uptimeYear": "99.77%",
-    "time": 1010,
-    "timeDay": 2771,
-    "timeWeek": 1644,
-    "timeMonth": 1135,
-    "timeYear": 1010,
+    "uptimeYear": "99.78%",
+    "time": 1008,
+    "timeDay": 872,
+    "timeWeek": 1646,
+    "timeMonth": 1127,
+    "timeYear": 1008,
     "dailyMinutesDown": {
       "2021-02-20": 99,
       "2021-01-22": 80
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 1600,
-    "timeDay": 1090,
-    "timeWeek": 1276,
-    "timeMonth": 1510,
-    "timeYear": 1600,
+    "time": 1591,
+    "timeDay": 1028,
+    "timeWeek": 1162,
+    "timeMonth": 1499,
+    "timeYear": 1591,
     "dailyMinutesDown": {
       "2021-01-19": 67
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 701,
-    "timeDay": 562,
-    "timeWeek": 580,
-    "timeMonth": 659,
-    "timeYear": 701,
+    "time": 699,
+    "timeDay": 597,
+    "timeWeek": 582,
+    "timeMonth": 647,
+    "timeYear": 699,
     "dailyMinutesDown": {
       "2021-01-19": 67
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 874,
-    "timeDay": 793,
-    "timeWeek": 673,
-    "timeMonth": 839,
-    "timeYear": 874,
+    "time": 870,
+    "timeDay": 571,
+    "timeWeek": 672,
+    "timeMonth": 836,
+    "timeYear": 870,
     "dailyMinutesDown": {
       "2021-01-19": 67
     }
