@@ -1,7 +1,7 @@
 url: https://deskhelper.de
-status: up
-code: 200
-responseTime: 591
-lastUpdated: 2021-08-01T19:24:45.141Z
+status: down
+code: 502
+responseTime: 589
+lastUpdated: 2021-08-01T19:38:14.274Z
 startTime: Sun Dec 27 2020 21:14:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
