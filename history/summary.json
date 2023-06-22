@@ -64,7 +64,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.deskhelper.de.ico",
     "slug": "deskhelper-blog",
     "status": "down",
-    "uptime": "85.00%",
+    "uptime": "84.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -75,7 +75,7 @@
     "timeMonth": 0,
     "timeYear": 879,
     "dailyMinutesDown": {
-      "2023-06-22": 47,
+      "2023-06-22": 81,
       "2023-06-21": 1440,
       "2023-06-20": 1440,
       "2023-06-19": 1440,
