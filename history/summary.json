@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.24%",
     "time": 1308,
-    "timeDay": 1466,
-    "timeWeek": 1198,
-    "timeMonth": 1373,
+    "timeDay": 1271,
+    "timeWeek": 1245,
+    "timeMonth": 1368,
     "timeYear": 1323,
     "dailyMinutesDown": {
       "2023-05-20": 42,
@@ -35,11 +35,11 @@
     "uptimeWeek": "99.24%",
     "uptimeMonth": "99.36%",
     "uptimeYear": "99.84%",
-    "time": 1142,
-    "timeDay": 649,
-    "timeWeek": 661,
-    "timeMonth": 895,
-    "timeYear": 1026,
+    "time": 1141,
+    "timeDay": 655,
+    "timeWeek": 680,
+    "timeMonth": 891,
+    "timeYear": 1022,
     "dailyMinutesDown": {
       "2023-07-22": 76,
       "2023-07-15": 25,
@@ -62,8 +62,7 @@
       "2023-01-13": 20,
       "2022-11-26": 15,
       "2022-08-31": 76,
-      "2022-07-30": 188,
-      "2022-07-28": 49
+      "2022-07-30": 188
     }
   },
   {
@@ -72,18 +71,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.deskhelper.de.ico",
     "slug": "deskhelper-blog",
     "status": "down",
-    "uptime": "81.83%",
+    "uptime": "81.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "53.23%",
-    "time": 875,
+    "uptimeYear": "52.96%",
+    "time": 876,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 889,
+    "timeYear": 888,
     "dailyMinutesDown": {
-      "2023-07-27": 68,
+      "2023-07-28": 70,
+      "2023-07-27": 1440,
       "2023-07-26": 1440,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
@@ -258,8 +258,7 @@
       "2023-01-13": 20,
       "2022-11-26": 15,
       "2022-08-31": 76,
-      "2022-07-30": 188,
-      "2022-07-28": 49
+      "2022-07-30": 188
     }
   },
   {
@@ -273,11 +272,11 @@
     "uptimeWeek": "99.25%",
     "uptimeMonth": "99.52%",
     "uptimeYear": "99.89%",
-    "time": 856,
-    "timeDay": 766,
-    "timeWeek": 793,
-    "timeMonth": 930,
-    "timeYear": 842,
+    "time": 855,
+    "timeDay": 803,
+    "timeWeek": 825,
+    "timeMonth": 934,
+    "timeYear": 840,
     "dailyMinutesDown": {
       "2023-07-22": 76,
       "2023-07-19": 17,
@@ -290,8 +289,7 @@
       "2023-03-07": 24,
       "2023-01-13": 19,
       "2022-08-31": 75,
-      "2022-07-30": 187,
-      "2022-07-28": 49
+      "2022-07-30": 187
     }
   }
 ]
