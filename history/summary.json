@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.24%",
-    "time": 1298,
-    "timeDay": 1024,
-    "timeWeek": 1327,
-    "timeMonth": 1378,
+    "time": 1300,
+    "timeDay": 1469,
+    "timeWeek": 1306,
+    "timeMonth": 1367,
     "timeYear": 1335,
     "dailyMinutesDown": {
       "2023-05-20": 42,
@@ -31,17 +31,16 @@
     "slug": "wieichnichtheisse-de",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.87%",
-    "time": 1116,
-    "timeDay": 1518,
-    "timeWeek": 1054,
-    "timeMonth": 817,
-    "timeYear": 972,
+    "time": 1115,
+    "timeDay": 670,
+    "timeWeek": 1003,
+    "timeMonth": 819,
+    "timeYear": 970,
     "dailyMinutesDown": {
-      "2023-08-30": 6,
       "2023-08-20": 55,
       "2023-08-19": 1,
       "2023-08-04": 17,
@@ -64,8 +63,7 @@
       "2023-03-08": 30,
       "2023-03-07": 25,
       "2023-01-13": 20,
-      "2022-11-26": 15,
-      "2022-08-31": 76
+      "2022-11-26": 15
     }
   },
   {
@@ -74,18 +72,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.deskhelper.de.ico",
     "slug": "deskhelper-blog",
     "status": "down",
-    "uptime": "78.96%",
+    "uptime": "78.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "43.88%",
+    "uptimeYear": "43.69%",
     "time": 881,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 876,
+    "timeYear": 875,
     "dailyMinutesDown": {
-      "2023-08-30": 479,
+      "2023-08-31": 60,
+      "2023-08-30": 1440,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
       "2023-08-27": 1440,
@@ -292,8 +291,7 @@
       "2023-02-07": 1440,
       "2023-02-06": 607,
       "2023-01-13": 20,
-      "2022-11-26": 15,
-      "2022-08-31": 76
+      "2022-11-26": 15
     }
   },
   {
@@ -308,10 +306,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 829,
-    "timeDay": 1487,
-    "timeWeek": 890,
-    "timeMonth": 799,
-    "timeYear": 833,
+    "timeDay": 499,
+    "timeWeek": 791,
+    "timeMonth": 802,
+    "timeYear": 832,
     "dailyMinutesDown": {
       "2023-07-22": 76,
       "2023-07-19": 17,
@@ -322,8 +320,7 @@
       "2023-03-30": 19,
       "2023-03-29": 16,
       "2023-03-07": 24,
-      "2023-01-13": 19,
-      "2022-08-31": 75
+      "2023-01-13": 19
     }
   }
 ]
