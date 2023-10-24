@@ -6,10 +6,6 @@ repo: deskhelper-status # Your Github repository name
 sites:
   - name: Deskhelper Cloud
     url: https://server.deskhelper.de
-  - name: Wieichnichtheisse.de
-    url: https://wieichnichtheisse.de
-  - name: Deskhelper Blog
-    url: https://blog.deskhelper.de
   - name: Deskhelper Static Page
     url: https://deskhelper.de
 
