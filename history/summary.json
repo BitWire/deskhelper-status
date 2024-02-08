@@ -4,7 +4,7 @@
     "url": "https://server.deskhelper.de",
     "icon": "https://icons.duckduckgo.com/ip3/server.deskhelper.de.ico",
     "slug": "deskhelper-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1315,
     "timeYear": 1373,
     "dailyMinutesDown": {
+      "2024-02-08": 0,
       "2023-12-25": 25,
       "2023-05-20": 42
     }
