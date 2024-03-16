@@ -26,7 +26,7 @@
     "url": "https://deskhelper.de",
     "icon": "https://icons.duckduckgo.com/ip3/deskhelper.de.ico",
     "slug": "deskhelper-static-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.51%",
@@ -38,6 +38,7 @@
     "timeMonth": 697,
     "timeYear": 802,
     "dailyMinutesDown": {
+      "2024-03-16": 0,
       "2024-03-14": 25,
       "2024-03-13": 24,
       "2024-01-30": 17,
