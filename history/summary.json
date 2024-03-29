@@ -8,13 +8,13 @@
     "uptime": "99.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1349,
-    "timeDay": 1073,
-    "timeWeek": 1146,
-    "timeMonth": 1134,
-    "timeYear": 1360,
+    "timeDay": 1055,
+    "timeWeek": 1142,
+    "timeMonth": 1137,
+    "timeYear": 1359,
     "dailyMinutesDown": {
       "2024-02-28": 15,
       "2023-12-25": 25,
@@ -28,17 +28,16 @@
     "slug": "deskhelper-static-page",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.93%",
     "time": 801,
-    "timeDay": 731,
-    "timeWeek": 773,
-    "timeMonth": 695,
+    "timeDay": 753,
+    "timeWeek": 804,
+    "timeMonth": 698,
     "timeYear": 798,
     "dailyMinutesDown": {
-      "2024-03-28": 9,
       "2024-03-22": 17,
       "2024-03-14": 25,
       "2024-03-13": 24,
@@ -51,8 +50,7 @@
       "2023-07-14": 15,
       "2023-07-05": 85,
       "2023-07-04": 0,
-      "2023-06-29": 16,
-      "2023-03-30": 19
+      "2023-06-29": 16
     }
   }
 ]
