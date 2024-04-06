@@ -1,7 +1,7 @@
 url: https://server.deskhelper.de
-status: up
-code: 200
-responseTime: 1207
-lastUpdated: 2024-04-05T23:16:46.843Z
+status: down
+code: 503
+responseTime: 662
+lastUpdated: 2024-04-06T13:54:30.080Z
 startTime: 2020-12-27T21:14:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
