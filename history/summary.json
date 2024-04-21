@@ -14,7 +14,7 @@
     "timeDay": 847,
     "timeWeek": 1167,
     "timeMonth": 1154,
-    "timeYear": 1339,
+    "timeYear": 1341,
     "dailyMinutesDown": {
       "2024-02-28": 15,
       "2023-12-25": 25,
@@ -26,9 +26,9 @@
     "url": "https://deskhelper.de",
     "icon": "https://icons.duckduckgo.com/ip3/deskhelper.de.ico",
     "slug": "deskhelper-static-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.93%",
@@ -38,6 +38,7 @@
     "timeMonth": 739,
     "timeYear": 791,
     "dailyMinutesDown": {
+      "2024-04-21": 0,
       "2024-04-03": 32,
       "2024-03-22": 17,
       "2024-03-14": 25,
